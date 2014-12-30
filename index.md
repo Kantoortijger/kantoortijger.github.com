@@ -5,7 +5,7 @@ tagline: Supporting tagline
 ---
 {% include JB/setup %}
 
-Some meditations about tech, life and more.
+About tech, life and more.
 
 ## Archive 
 <ul class="posts">
