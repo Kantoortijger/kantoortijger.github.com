@@ -12,13 +12,17 @@ For one of my Laravel projects, I needed some simple WYSIWYG functionality into 
 
 Installation is simple. Move the contents of the downloaded archive to a folder your /public/ directory, for example '/public/ckeditor/. Next, implement the JavaScript file into your layout view (in my case, in my admin layout view). You can do this by making use of the script helper.
 
+{% highlight html %}
 {{ HTML::script('ckeditor/ckeditor.js') }}
+{% endhighlight %}
 
 Next, assign your textareas to a 'ckeditor' class. You can do this by
 
+{% highlight html %}
 {{ Form::textarea('text', null, array(
     'class' => 'ckeditor'
 )) }}
+{% endhighlight %}
 
 Open your page, and you should be set.
 

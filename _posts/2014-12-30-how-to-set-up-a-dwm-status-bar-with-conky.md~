@@ -1,0 +1,10 @@
+---
+layout: post
+title: "How to Set Up a DWM Status Bar with Conky"
+description: ""
+category: 
+tags: []
+---
+{% include JB/setup %}
+
+### How to Set Up a DWM Status Bar With Conky
