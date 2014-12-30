@@ -14,7 +14,7 @@ Installation is simple. Move the contents of the downloaded archive to a folder 
 
 {% highlight html %}
 {% raw %}
-{{ HTML::script('ckeditor/ckeditor.js') \\}}
+{{ HTML::script('ckeditor/ckeditor.js') }}
 {% endraw %}
 {% endhighlight %}
 
@@ -22,9 +22,9 @@ Next, assign your textareas to a 'ckeditor' class. You can do this by
 
 {% highlight html %}
 {% raw %}
-\\{{ Form::textarea('text', null, array(
+{{ Form::textarea('text', null, array(
     'class' => 'ckeditor'
-)) \\}}
+)) }}
 {% endraw %}
 {% endhighlight %}
 
