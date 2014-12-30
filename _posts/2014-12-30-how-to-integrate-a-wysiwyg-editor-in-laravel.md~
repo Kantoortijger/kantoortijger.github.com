@@ -1,0 +1,12 @@
+---
+layout: post
+title: "How to integrate a WYSIWYG editor in Laravel"
+description: ""
+category: 
+tags: [laravel, wyiwyg, howto]
+---
+{% include JB/setup %}
+
+
+
+
