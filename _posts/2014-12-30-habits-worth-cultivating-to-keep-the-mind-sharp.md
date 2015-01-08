@@ -9,7 +9,7 @@ tags: []
 
 I have always been interested in finding the best ways to keep the mind sharp, and a live a focused and purpuseful mind. Over the years I accumulated some habits that in my idea are essential to develop yourself and live an active and purposeful live. I do acknowledge that this is ofcourse all very personal, because you know; YMMV.
 
-First, I think it is important to constantly expose yourself to new ideas and concepts.
+First, I think it is absolutely important to constantly expose yourself to new ideas and concepts.
 
 ## Reading
 The importants and benefits of reading are undisputed. Besides reading non-fiction to expanden your knowledge, I do think it is also beneficial to read some good fiction once in while.
