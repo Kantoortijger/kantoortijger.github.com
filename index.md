@@ -7,6 +7,10 @@ tagline: Supporting tagline
 
 About tech, life and more.
 
+ {% for post in site.posts offset: 0 limit: 10  %}
+	{{ post.title }} 
+
+ {% endfor %}
 
 ## Archive 
 <ul class="posts">
