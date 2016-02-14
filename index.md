@@ -7,6 +7,9 @@ tagline: Supporting tagline
 
 About tech, life and more.
 
+
+<hr>
+
  {% for post in site.posts offset: 0 limit: 1  %}
 <div id="post">
   <h1>{{ post.title }}</h1>
@@ -17,6 +20,8 @@ About tech, life and more.
 </div>
 
  {% endfor %}
+
+<hr>
 
 ## Archive 
 <ul class="posts">
