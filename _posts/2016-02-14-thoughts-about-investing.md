@@ -12,4 +12,4 @@ tags: []
 # Searching for yield
 
 # Gold vs. interest rates 
-Interesting.
+Interesting..
