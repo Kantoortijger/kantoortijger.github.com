@@ -1,5 +1,18 @@
+<<<<<<< HEAD
 _site
 .DS_Store
 *.swp
 .sass-cache
 
+=======
+_site/*
+_theme_packages/*
+
+Thumbs.db
+.DS_Store
+
+!.gitkeep
+
+.rbenv-version
+.rvmrc
+>>>>>>> f316d98e1ca43885fdfa9d74cab51595e4c68443
