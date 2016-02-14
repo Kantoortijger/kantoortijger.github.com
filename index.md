@@ -7,8 +7,14 @@ tagline: Supporting tagline
 
 About tech, life and more.
 
- {% for post in site.posts offset: 0 limit: 10  %}
-	{{ post.title }} 
+ {% for post in site.posts offset: 0 limit: 1  %}
+<div id="post">
+  <h1>{{ post.title }}</h1>
+  <p class="meta">
+    {{ post.date | date_to_long_string }} 
+  </p>
+  {{ content }}
+</div>
 
  {% endfor %}
 
