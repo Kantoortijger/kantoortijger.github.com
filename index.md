@@ -13,7 +13,7 @@ About tech, life and more.
   <p class="meta">
     {{ post.date | date_to_long_string }} 
   </p>
-  {{ content }}
+  {{ post.content }}
 </div>
 
  {% endfor %}
