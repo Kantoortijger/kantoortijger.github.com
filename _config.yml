@@ -2,7 +2,7 @@ name: Aan mijzelf
 description: Overpeinzingen. En, meer.
 meta_description: "Overpeinzingen. En, meer."  
 markdown: kramdown
-highlighter: pygments
+highlighter: rouge
 logo: false
 paginate: 15
 baseurl: /
