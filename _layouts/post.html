@@ -16,8 +16,10 @@ post_class: post-template
     </nav>
     <div class="vertical postvertical">
         <div class="main-header-content inner">
-            <h1 class="page-title">{{ site.name }}</h1>
-            <h2 class="page-description">
+            <a href='{{ site.baseurl }}'>
+				<h1 class="page-title">{{ site.name }}</h1>
+            </a>
+			<h2 class="page-description">
                 {% if site.description %} {{ site.description }}. {% endif %}
                 {% if page.about %} <a href='{{ site.baseurl }}{{ page.about }}'> About me </a> {% endif %}
             </h2>

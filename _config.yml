@@ -1,6 +1,6 @@
 name: Aan mijzelf
-description: Overpeinzingen. En, meer.
-meta_description: "Overpeinzingen. En, meer."  
+description: Overpeinzingen, over van alles en nog wat
+meta_description: "Overpeinzingen, over van alles en nog wat.."  
 markdown: kramdown
 highlighter: rouge
 logo: false
@@ -13,3 +13,4 @@ gems: [jekyll-paginate]
 # Details for the RSS feed generator
 url:            'blog url'
 author:         'Your Name'
+
