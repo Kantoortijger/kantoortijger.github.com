@@ -19,6 +19,9 @@ Een belangrijk aspect is het omgaan met ambiguiteit. Gedurende een dag krijg je 
 ### Deep Work
 Als je geen controle neemt, kan het gebeuren dat je je aan het einde van de dag afvraagt van wat je nu gedaan hebt. Hoewel je je had voorgenomen om *X* en *Y* op te leveren vandaag, ben je alleen maar bezig geweest met het blussen van brandjes die gedurende de dag jouw kant op kwamen. Het is van belang om voldoende **deep work** in je dag te incorporeren. Een tijdsblok van ononderbroken concentratie, gericht op het toevoegen van waarde. 
 
+#### Waarde toevoegen
+Zelf merk ik het ook. Produceren gaat beter in de ochtend. Deze blogpost is geschreven in de ochtend; in de avond zou het me veel meer moeite kosten. 
+
 ### Take aways
 * Jezelf dusdanig faciliteren om zo veel mogelijk *waarde toe te voegen*. Daar gaat het om. Je weet van jezelf op welke manieren je het beste werkt; alleen, met andere mensen, en op welk tijdstip. **Richt je dagen daar dan ook op in**. Mensen die optimaal produceren, zijn mensen die hun dagen hebben afgestemd op hun optimale omstandigheden.
 * Blok tijdsperiodes met **deep work**.
