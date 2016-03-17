@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Beleggingsplan'"
+title: "Beleggingsplan"
 description: ""
 category: 
 tags: []

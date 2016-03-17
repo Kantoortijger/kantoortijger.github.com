@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Vroeger opstaan'"
+title: "Vroeger opstaan"
 description: ""
 category: 
 tags: []
