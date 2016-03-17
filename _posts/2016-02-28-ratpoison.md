@@ -11,3 +11,9 @@ Nieuwe windowmanager ingestalleerd, **Ratpoison**. Ik had er al eerder over geho
 ### Kaal, en functioneel
 Ratpoison is een enorm uitgeklede windowmanager. Je ziet praktisch niets. De kracht van Ratpoison ligt er in dat het volledig naar eigen wens is te configureren, zodat het niet meer in de weg gaat zitten. En dat is precies wat een window manager moet doen.
 
+### Shortkeys 
+Win + Enter: switchen naar ander scherm
+Win + Q: kill current window
+Win + 0: split screen
+Win + Left/right: Move focus to other window 
+Win + R: Restart ratpoison
