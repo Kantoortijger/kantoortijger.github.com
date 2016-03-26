@@ -1785,6 +1785,17 @@ body:not(.post-template) .post-title {
 }
 
 
+.subLinks {
+	font-size: 14px;
+	letter-spacing: 0.5px;
+	margin-top: 100px;
+}
+
+.subLinks a {
+	margin-right: 10px;
+	margin-left: 10px;
+}
+
 /* ==========================================================================
    End of file. Animations should be the last thing here. Do not add stuff
    below this point, or it will probably fuck everything up.
