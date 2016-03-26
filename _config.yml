@@ -4,7 +4,7 @@ meta_description: "Overpeinzingen, gedachtespinsels en mentale notities.."
 markdown: kramdown
 highlighter: rouge
 logo: false
-paginate: 15
+paginate: 5
 baseurl: /
 domain_name: 'http://niek33.github.com'
 google_analytics: 'UA-XXXXXXXX-X'

@@ -19,9 +19,16 @@ post_class: post-template page-template
             </a>
 			<h2 class="page-description">
                 {% if site.description %} {{ site.description }}. {% endif %}
-                {% if page.about %} <a href='{{ site.baseurl }}{{ page.about }}'> About me </a> {% endif %}
-            </h2>
-        </div>
+
+<br /><br />
+<span class="sublinks">
+<a href="{{ site.baseurl }}/">beginpagina</a> | 
+<a href="{{ site.baseurl }}/now">now</a> | 
+<a href="{{ site.baseurl }}/boeken">boeken</a> | <a href="./resources">waardevolle resources</a>  | 
+<a href="{{ site.baseurl }}/over">over</a>  
+</span></h2>
+
+       </div>
     </div>
     <a class="scroll-down icon-arrow-left" href="#content" data-offset="-45"><span class="hidden">Scroll Down</span></a>
 </header>
