@@ -5,7 +5,7 @@ markdown: kramdown
 highlighter: rouge
 logo: false
 paginate: 5
-baseurl: /
+baseurl: 'http://www.aanmijzelf.nl'
 domain_name: 'http://niek33.github.com'
 google_analytics: 'UA-XXXXXXXX-X'
 gems: [jekyll-paginate]
