@@ -10,13 +10,16 @@ Over de loop der jaren ben ik van alles tegengekomen op het internet. Aangezien 
 ### Boeken
 * [Achille van den Branden](http://www.achillevandenbranden.net/)
 
-### Werk 
+### Blogs 
 * [Cal Newport](http://www.calnewport.com/blog/)
 * [Lacking Ambition](http://www.lackingambition.com)
 * [Scott Adams blog](http://blog.dilbert.com)
+* [Derek Sivers](http://www.sivers.org)
 
 ### Financieen
 * [jlcollinsnh](http://www.jlcollinsnh.com)
 * [Mr. Money Mustasche](http://www.mrmoneymustache.com)
 * [Early Retirement Extreme](http://www.earlyretirementextreme.com)
 
+### Blogposts
+* [There is no speedlimit (Derek Sivers)](https://sivers.org/kimo)
