@@ -3,7 +3,7 @@ layout: page
 title: "Archief"
 description: ""
 ---
-<br /><br />
+<br />
 <ul>
   {% for post in site.posts %}
 
