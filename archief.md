@@ -3,7 +3,6 @@ layout: page
 title: "Archief"
 description: ""
 ---
-<h2>Archives</h2>
 <ul>
   {% for post in site.posts %}
 
@@ -17,6 +16,6 @@ description: ""
       {% endif %}
     {% endunless %}
 
-    <li>{{ post.date | date:"%b" }} <a href="{{ post.url }}">{{ post.title }}</a></li>
+    <li>{{ post.date | date:"%d-%m" }} <a href="{{ post.url }}">{{ post.title }}</a></li>
   {% endfor %}
 </ul>
