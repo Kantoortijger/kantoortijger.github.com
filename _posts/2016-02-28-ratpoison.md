@@ -6,18 +6,16 @@ category:
 tags: []
 ---
 
-Nieuwe windowmanager ingestalleerd, **Ratpoison**. Ik had er al eerder over gehoord, via Derek Sivers. Na een ongelukkige stasrt waarin ik geen window manager meer kon starten, ben ik er nu even voor gaan zitten om Ratpoison correct te installeren en configureren.
+Al een tijdje ben ik overgestapt van Windows naar Linux. Na een tiental jaar tevreden Windows-gebruik, was het omstreeks versie 8 dat ik besloten heb de volledige overstap te maken naar Linux. Daarvoor al middels een dualboot gepriegeld met het besturingssysteem, maar nooit de volledig overstap durven waren.
 
-### Kaal, en functioneel
-Ratpoison is een enorm uitgeklede windowmanager. Je ziet praktisch niets. De kracht van Ratpoison ligt er in dat het volledig naar eigen wens is te configureren, zodat het niet meer in de weg gaat zitten. En dat is precies wat een window manager moet doen.
+Redenen hiervoor is dat Windows tegenwoordig met een boel software komt die ik niet nodig heb. Denk aan Xbox software, Media Player, een interactief startmenu met een boel bewegende tegels. Ik wil volledige controle over mijn systeem, en de verplichte bloatware stootte me op een gegeven moment tegen de borst.
 
-### Shortkeys 
-Win + Enter: switchen naar ander scherm 
+### Debian
+Op dit moment draai ik Debian. Een kale install, met Ratpoison als windowmanager. Het grote voordeel is, is dat je volledige controle hebt over wat er op je systeem staat. Dit maakt het geheel minimalistisch, snel, en bevat het alleen datgene wat je nodig hebt. Het feit dat je niet verplicht wordt om te upgraden naar een nieuwere, flitsendere versie bevalt me. Het geeft je controle over je  systeem. Je bent minder afhankelijk, minder vatbaar voor mal- en spyware, en rijkt je de handvatten aan om alles naar eigen wens in te richten. Mocht je technische affiniteit hebben, kan ik het je van harte aanbevelen. 
 
-Win + Q: kill current window 
+### Ratpoison
+Ratpoison is een (soort van) tiling windowmanager. Dat houdt in dat alle schermen standaard gemaximaliseerd worden, en je middels shortkeys het windowmanagement kunt manipuleren. Hierdoor is de muis overbodig geworden. 
 
-Win + 0: split screen 
+Het lastige aan Ratpoison is dat het enorm basic is. De standaard shortkeys zijn niet intuïtief, waardoor het in het begin echt flink wennen is. Nu ik een aantal weken verder ben, en mijn eigen shortkeys heb geconfigureerd, kan ik echter zeggen dat het een verademing is. Als je de sneltoetsen in je systeem hebt kan je razendsnel switchen. 
 
-Win + Left/right: Move focus to other window 
 
-Win + R: Restart ratpoison
