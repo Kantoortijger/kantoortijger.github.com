@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Ratpoison"
+title: "Debian + Ratpoison"
 description: ""
 category: 
 tags: []
