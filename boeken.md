@@ -4,8 +4,6 @@ title: "Boeken"
 description: ""
 ---
 
-Ik probeer op regelmatige basis een boek te lezen.
-
 Over de jaren, zijn er een aantal boeken blijven beklijven. Hieronder zie je mijn favorieten. 
 
 * Zen and the Art of Motorcycle Maintaince, Robert Pirsig
