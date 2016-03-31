@@ -8,6 +8,8 @@ Over de jaren, zijn er een aantal boeken blijven beklijven. Hieronder zie je mij
 
 * Zen and the Art of Motorcycle Maintaince, Robert Pirsig
 * The Practicing Mind, Thomas Sterner 
+* Letters from a Stoic, Seneca
+* Meditations, Marcus Aurelius 
 * So Good They Can't Ignore You, Cal Newport
 * Early Retirement Extreme, Jacob Lund Fischer
 * Deep Work, Cal Newport
