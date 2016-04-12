@@ -13,3 +13,5 @@ Over de jaren, zijn er een aantal boeken blijven beklijven. Hieronder zie je mij
 * So Good They Can't Ignore You, Cal Newport
 * Early Retirement Extreme, Jacob Lund Fischer
 * Deep Work, Cal Newport
+* Stoner, John Williams
+
