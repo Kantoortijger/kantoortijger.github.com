@@ -14,4 +14,4 @@ Over de jaren, zijn er een aantal boeken blijven beklijven. Hieronder zie je mij
 * Early Retirement Extreme, Jacob Lund Fischer
 * Deep Work, Cal Newport
 * Stoner, John Williams
-
+* How I Found Freedom in an Unfree World, Harry Browne
