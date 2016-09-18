@@ -15,10 +15,10 @@ Waarde toekennen aan de directe omgeving is de kern, en dient onder examinatie g
 
 Het succes van een mentaal model valt of staat met een juiste waardering van objecten en activiteiten. Door soms teveel waarde toe te kennen kun je ontevreden raken; door het een te doen negeer je al het - minstens zo belangrijke - andere. Door het ene boek wel te lezen lees je het andere niet.
 
-## Meditatie
+### Meditatie
 Het stilstaan en een stap terug nemen is een belangrijk hulpmiddel in het geval van ofwel te veel - of te weinig waarde in een directe omgeving. Door stil te staan dwing je jezelf te hercalibreren, en objectief te observeren wat er op huidig moment meer danwel minder waarde verdient.
 
-## Houding
+### Houding
 Een objectieve, kalme houding biedt ruimte voor alles wat het leven te bieden heeft. Door je te richten op dat wat er wèl is ben je in staat om plezier te ervaren in het moment zelf. Piekeren, *FOMO* en verveling zijn allemaal symptomen van onbalans in het toekennen van waarde. Neem in dergelijke gevallen een stap terug, en observeer jezelf.
 
 Adem in, adem uit.
